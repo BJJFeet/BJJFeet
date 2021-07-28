@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BJJFeet, but you can call me DresA
+- 👀 I’m interested in videogames and art mainly, but also music!
+- 🌱 I’m currently learning Unix and Python 3
